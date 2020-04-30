@@ -8,7 +8,6 @@
 
 - [Sem 1 ](https://github.com/Nehasingh1300/DevOps/tree/master/sem1)
 <br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
-<br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
         
 - [Sem 2](https://github.com/Nehasingh1300/DevOps/tree/master/sem%202)
 <br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%202/README.md)
