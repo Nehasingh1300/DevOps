@@ -7,17 +7,17 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DevOps%20:%20All%20you%20need%20to%20know%204&url=https://github.com/Nehasingh1300/DevOps&hashtags=DevOpsAtUPES,DevOps,LearnTogether,girlswhocode,girlintech,girlinstem)
 
 - [Sem 1 ](https://github.com/Nehasingh1300/DevOps/tree/master/sem1)
-        -[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
-        -[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
+<br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
+<br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem1/README.md)
         
-- [How does internet work?](https://github.com/Nehasingh1300/DevOps/tree/master/sem%202)
-    -[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%202/README.md)
+- [Sem 2](https://github.com/Nehasingh1300/DevOps/tree/master/sem%202)
+<br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%202/README.md)
     
-- [HTML && CSS](https://github.com/Nehasingh1300/DevOps/tree/master/sem%203)
-    -[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%203/README.md)
+- [Sem 3](https://github.com/Nehasingh1300/DevOps/tree/master/sem%203)
+ <br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%203/README.md)
 
 - [Sem 4](https://github.com/Nehasingh1300/DevOps/tree/master/sem%204)
-    -[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%204/README.md)
+ <br>[README.md](https://github.com/Nehasingh1300/DevOps/blob/master/sem%204/README.md)
     
     
     
